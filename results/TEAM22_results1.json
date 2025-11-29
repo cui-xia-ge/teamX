@@ -3,13 +3,13 @@
         "average_orientationerror": 0.0,
         "average_positionerror": 0.041,
         "average_ringcentererror": 0.0,
-        "fps": 2,
+        "fps": 1,
         "max_orientationerror": 0.0,
         "max_positionerror": 0.041,
-        "run_id": "74460439-2bfb-41e2-8f28-4cee90237d67",
+        "run_id": "427a392e-d1d0-4c83-8291-5f08e1931824",
         "score": 15.0,
         "target_type": "Ring_red",
         "team_name": "TEAM22",
-        "timestamp": "2025-11-29T11:36:25Z"
+        "timestamp": "2025-11-29T12:17:52Z"
     }
 }
