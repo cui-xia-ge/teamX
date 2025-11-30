@@ -10,3 +10,5 @@ ros2 launch referee_pkg referee_pkg_launch.xml \
     TeamName:="TEAMENAME" \
     StageSelect:=0 \
     ModeSelect:=0
+#### 技术报告语雀链接
+https://www.yuque.com/shuijiaoge/ok1b6c/dg2s3znzqhm615rk
